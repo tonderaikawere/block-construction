@@ -1,4 +1,4 @@
-import { pagesHtml } from "../../../html_sources";
+import { pagesHtml } from "@/app/html_sources";
 import { notFound } from "next/navigation";
 
 interface PageProps {
