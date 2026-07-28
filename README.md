@@ -22,3 +22,8 @@ This is a premium replica of the Block Construction Webflow Ecommerce template b
    ```bash
    npm run build
    ```
+
+## Folder Structure
+- `public/`: Assets (images, fonts, scripts)
+- `src/app/`: Next.js pages and API routing
+- `src/app/html_sources.ts`: Pre-compiled static HTML structures from the Webflow migration
