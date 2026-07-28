@@ -27,3 +27,6 @@ This is a premium replica of the Block Construction Webflow Ecommerce template b
 - `public/`: Assets (images, fonts, scripts)
 - `src/app/`: Next.js pages and API routing
 - `src/app/html_sources.ts`: Pre-compiled static HTML structures from the Webflow migration
+
+## Backend API Routes
+- **POST `/api/contact`**: Receives form submissions from the contact page.
