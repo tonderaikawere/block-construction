@@ -33,3 +33,6 @@ This is a premium replica of the Block Construction Webflow Ecommerce template b
 
 ## Deployment on Vercel
 Deploy the code to Vercel by linking this repository. Next.js App Router and the API routes work out-of-the-box.
+
+## License
+This project is licensed under the MIT License - see the `LICENSE` file for details.
