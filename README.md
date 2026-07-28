@@ -30,3 +30,6 @@ This is a premium replica of the Block Construction Webflow Ecommerce template b
 
 ## Backend API Routes
 - **POST `/api/contact`**: Receives form submissions from the contact page.
+
+## Deployment on Vercel
+Deploy the code to Vercel by linking this repository. Next.js App Router and the API routes work out-of-the-box.
